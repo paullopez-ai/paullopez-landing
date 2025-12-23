@@ -1,6 +1,7 @@
 'use client'
 
 import React, { useState } from 'react';
+import Image from 'next/image';
 import { Card, CardContent } from '@/components/ui/card';
 import { GradientHeading } from '@/components/ui/gradient-heading';
 import { Magnetic } from '@/components/ui/magnetic';
@@ -136,10 +137,15 @@ export default function LandingPage() {
         <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-6">
           {/* Logo */}
           <div className="flex items-center gap-3">
-            <img 
-              src="/logo.png" 
-              alt="" 
-              className="h-24 w-auto"
+            <Image
+              src="/logo.png"
+              alt="Paul Lopez AI logo"
+              width={3334}
+              height={1250}
+              priority
+              className="h-16 w-auto sm:h-20 md:h-24"
+              style={{ width: 'auto', height: 'auto', maxHeight: '6rem' }}
+              sizes="(max-width: 640px) 240px, (max-width: 768px) 280px, 320px"
             />
           </div>
 
