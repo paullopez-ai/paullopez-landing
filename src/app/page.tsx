@@ -220,7 +220,7 @@ export default function LandingPage() {
             transition={{ duration: 0.5, delay: 0.6 }}
           >
             <p className="mx-auto mt-6 max-w-3xl text-lg leading-relaxed text-white/60">
-              40 years of technology experience meets hands-on AI
+              35+ years of technology experience meets hands-on AI
               experimentation. Building proof of concepts, sharing insights from
               enterprise AI adoption, and exploring what's possible when AI
               meets real-world problems.
@@ -294,7 +294,7 @@ export default function LandingPage() {
                   </GradientHeading>
                   <div className="space-y-4 text-lg leading-relaxed text-white/70">
                     <p>
-                      I've built technology systems for 40 years across healthcare, finance, and enterprise platforms. Today, as a Principal Architect in Optum AI Solutions & Delivery, I help commercialize UHG's advanced AI capabilities—translating proven internal innovations into scalable, client-ready solutions for provider health systems, payers, life sciences, pharmacy, and academic medical institutions.
+                      I've built technology systems for 35 years across healthcare, finance, and enterprise platforms. Today, as a Principal Architect in Optum AI Solutions & Delivery, I help commercialize UHG's advanced AI capabilities—translating proven internal innovations into scalable, client-ready solutions for provider health systems, payers, life sciences, pharmacy, and academic medical institutions.
                     </p>
                     <p>
                     I’m driven by one goal: combine technology with humanity—using AI to reduce complexity, streamline work, and empower people to make faster, more informed decisions.
