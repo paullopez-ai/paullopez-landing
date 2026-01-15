@@ -268,7 +268,7 @@ export default function LandingPage() {
     {
       icon: '📈',
       title: 'Financial AI',
-      tagline: 'Portfolio analytics, trading and derivatives',
+      tagline: 'Portfolio analytics, trading, and derivatives',
       items: [
         'AI-enabled options strategies',
         'Market analysis algorithms',
