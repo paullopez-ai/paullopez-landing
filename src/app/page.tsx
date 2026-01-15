@@ -304,7 +304,7 @@ export default function LandingPage() {
 
                     </p>
                     <div className="mt-6 font-mono text-sm text-blue-400">
-                      # Currently exploring: Agentic AI architectures, Derivatives trading, and faith-based AI applications
+                      # Currently exploring: Agentic AI architectures, Claude Code for Healthcare, and faith-based AI applications
                     </div>
                   </div>
                 </CardContent>
