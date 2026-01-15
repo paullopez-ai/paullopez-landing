@@ -294,13 +294,13 @@ export default function LandingPage() {
                   </GradientHeading>
                   <div className="space-y-4 text-lg leading-relaxed text-white/70">
                     <p>
-                      I've built technology systems for 35 years across healthcare, finance, and enterprise platforms. Today, as a Principal Architect in Optum AI Solutions & Delivery, I help commercialize UHG's advanced AI capabilities—translating proven internal innovations into scalable, client-ready solutions for provider health systems, payers, life sciences, pharmacy, and academic medical institutions.
+                      I've built technology systems for 35 years across healthcare, finance, and enterprise platforms. Today, as a Principal Architect in Optum AI Solutions & Delivery, I help commercialize UHG's advanced AI capabilities: translating proven internal innovations into scalable, client-ready solutions for provider health systems, payers, life sciences, pharmacy, and academic medical institutions.
                     </p>
                     <p>
-                    I’m driven by one goal: combine technology with humanity—using AI to reduce complexity, streamline work, and empower people to make faster, more informed decisions.
+                    I'm driven by one goal: combine technology with humanity: using AI to reduce complexity, streamline work, and empower people to make faster, more informed decisions.
                     </p>
                     <p>
-                    This site is my research lab—a place to document experiments, share lessons from enterprise AI adoption, and explore practical GenAI applications, all through the lens of what happens when deep technical expertise meets real-world problems.
+                    This site is my research lab: a place to document experiments, share lessons from enterprise AI adoption, and explore practical GenAI applications, all through the lens of what happens when deep technical expertise meets real-world problems.
 
                     </p>
                     <div className="mt-6 font-mono text-sm text-blue-400">
